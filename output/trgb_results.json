@@ -1,8 +1,8 @@
 {
-  "TRGB_magnitude": 13.203063172833296,
-  "TRGB_uncertainty": 2.3031035722167807,
+  "TRGB_magnitude": 15.428501714677598,
+  "TRGB_uncertainty": 0.3896206002500814,
   "Number_of_sources": 239,
-  "Sources_brighter_than_TRGB": 23,
-  "Percentage_brighter_than_TRGB": 9.623430962343097,
-  "Absolute_TRGB_magnitude": -6.296936827166704
+  "Sources_brighter_than_TRGB": 78,
+  "Percentage_brighter_than_TRGB": 32.63598326359833,
+  "Absolute_TRGB_magnitude": -4
 }
